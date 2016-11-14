@@ -1,9 +1,8 @@
-Origin: lHectorl's Repo
+Origin: lHectorl
 Label: lHectorl's Repo
 Suite: stable
 Version: 1.0
-Codename: lHectorl
+Codename: ios
 Architecture: iphoneos-arm
 Components: main
 Description: Decimation's Repo
-MS5Sum:
