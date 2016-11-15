@@ -1,9 +1,0 @@
-Architecture: iphoneos-arm
-Author: lHectorl
-Depiction: https://github.com/lhectorl/lhectorl.github.io
-Description: Adds Icon Images
-Maintainer: lHectorl
-Name: icons
-Package: com.lHectorl.icons
-Section: Tweaks
-Version: 1.0
