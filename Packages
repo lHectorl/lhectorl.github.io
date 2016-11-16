@@ -1,0 +1,15 @@
+Package: com.lHectorl.icons
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: lHectorl
+Filename: ./debs/com.lhectorl.icons_1.0_iphoneos-arm.deb
+Size: 592
+MD5sum: 16c8727a1bfe7014d85495b754524a9e
+SHA1: 783df9fa01ef919b04547d61c3dbe19173ad763c
+SHA256: f68cd10dd3dfe19e1dda4ffa2cce638726ea25e321c9e98648c69129236fb3c8
+Section: Tweaks
+Description: Adds Icon Images
+Author: lHectorl
+Depiction: https://github.com/lhectorl/lhectorl.github.io
+Name: icons
+
